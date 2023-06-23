@@ -1,0 +1,10 @@
+.parent {
+    height: 60%;
+    border: 5px solid rgb(86, 0, 132);
+    background-color: rgba(157, 86, 222, 0.401);
+    color:  rgb(86, 0, 132);
+}
+
+.highlight {
+    background-color: rgb(227, 198, 255);
+}

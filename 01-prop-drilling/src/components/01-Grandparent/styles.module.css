@@ -1,0 +1,25 @@
+:global(.highlight) {
+    background-color: rgb(255, 136, 0);
+}
+
+:global(.text-fit) {
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+}
+
+h1 {
+    font-size: 1.5em;
+    padding: 0;
+    margin: 0;
+}
+
+.grandparent {
+    width: 80%;
+    min-width: 330px;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(147, 146, 144);
+    font-size: 1.5em;
+    font-weight: 600;
+    height: 90vh;
+}

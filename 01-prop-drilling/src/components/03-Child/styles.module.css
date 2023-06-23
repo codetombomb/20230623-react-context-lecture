@@ -1,0 +1,6 @@
+.child {
+    border: 5px solid rgb(44, 211, 44);
+    background-color: rgba(0, 128, 0, 0.584);
+    color: rgb(162, 249, 223);
+    height: 50%;
+}
